@@ -1,0 +1,27 @@
+@media (max-width:768px){
+    .dip {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column-reverse;
+      align-items: center;
+      
+    }
+  
+  
+    .doc{
+      position: absolute;
+      top: 72%;
+      left: 0;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column-reverse;
+      align-items: center;
+      justify-content: right;
+    
+    
+    }
+    
+     }
